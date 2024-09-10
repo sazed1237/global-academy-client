@@ -49,7 +49,7 @@ const About = () => {
                         }
                     </div>
                     <div className='mb-8 text-primaryColor'>
-                        <p className='text-yellow-400'>Course fee ৳40,000/- only</p>
+                        <p className='text-yellow-400'>Course fee ৳50,000/- only</p>
                         <p className='text-sm'>only 3 slot left</p>
                     </div>
 
@@ -82,7 +82,7 @@ const About = () => {
                 >
                     <h2 className='text-primaryColor/80 md:text-5xl text-3xl font-bold mb-4 leading-normal'>Who we are?</h2>
                     <h4 className='text-green-500/80 md:text-3xl text-xl font-semibold '>About us</h4>
-                    <p className='text-base text-white/60 pt-5'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores sit, molestiae modi nesciunt sequi nulla soluta doloremque quaerat atque enim aut adipisci tempora dolore magnam quasi magni voluptates. Illo, adipisci!</p>
+                    <p className='text-base text-white/60 pt-5'>We performed a bunch of dedicated & dynamic educated people associated & involved to run this organization. Our moto to promote semi-skill & recently graduated people to build SCM knowledge about (Export-import) & enlarge employment. Most of the cases we found SCM people has valuable certificate but lack of proper knowledge of experience, how to solve SCM problem. We promote those educate person who come to us to trouble shoot of SCM. </p>
 
                     <button className='btnPrimary mt-10'>Read More</button>
                 </motion.div>

@@ -27,7 +27,7 @@ const Enroll = () => {
         console.log(response.data)
 
         if (response?.data?.success) {
-            toast.success(response?.data?.message)
+            toast.success("Your Enroll is Successful. we will contract you soon!")
             navigate('/')
         } else {
             toast.error(response?.data?.message)

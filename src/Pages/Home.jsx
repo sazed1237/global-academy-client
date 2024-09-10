@@ -14,7 +14,7 @@ const Home = () => {
                 heading={'Supply Chain Management & Commercial Course'}
                 subHeading={'Become an Entrepreneur or Get Promoted in Your Job'}
                 subHeading2={"Only 3 Slots Left"}
-                courseFee={"Course fee ৳40,000/- only"}
+                courseFee={"Course fee ৳50,000/- only"}
                 btn1={'Enroll Now'}
             // btn2={'Discount'}
             />

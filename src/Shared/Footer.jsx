@@ -10,7 +10,7 @@ const Footer = () => {
 
                 <div className='md:w-1/2 space-y-8'>
                     <h1 className='text-2xl font-semibold flex items-center space-x-3 text-white'>GlobalChain Academy</h1>
-                    <p className='md:w-1/2 '>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nobis provident non, deleniti odio dolores unde asperiores voluptate voluptates beatae vero cumque molestias animi dolor modi. Quisquam, mollitia. Et?</p>
+                    <p className='md:w-1/2 '>Global Chain Academy is learning platform who promote themselves & where semi-skill, skilled, fresh comers, newly graduated student participated in this course but highly interested & efficient people in SCM & must be good in English reading-writing-speaking accommodate in this course.</p>
 
                 </div>
 
